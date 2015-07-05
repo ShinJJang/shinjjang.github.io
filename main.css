@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  font-family: 'KoPub Batang';
+  font-family: 'Nanum Gothic';  
   margin: 5% 15% 5% 15%;
 }
 
@@ -15,14 +15,14 @@ body {
 .contact-information, .links-container {
   #color: #808284;
   display: inline-block;
-  font-size: 1.0em;
+  font-size: .9em;
   letter-spacing: 1px;
   line-height: .9em;
   text-transform: uppercase;
 }
 
 .contact-deets {
-  #color: #58585B;
+  color: #58585B;
   display: inline-block;
   margin-bottom: 2%;
   margin-top: 1.2em;
@@ -47,10 +47,10 @@ body {
 .primary-titles {
   color: #DF723E;
   display: inline-block;
-  font-size: 1.0em;
+  font-size: 1.1em;
   letter-spacing: 1px;
   margin-bottom: -1%;
-  text-decoration: none;
+  text-decoration: none;  
 }
 
 .location {
@@ -74,8 +74,8 @@ body {
 }
 
 .category-details {
-  #color: #808284;
-  font-size: 1.0em;
+  color: #808284;
+  font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
   margin-left: 2%;
@@ -84,8 +84,8 @@ body {
 }
 
 .category-description-main {
-  #color: #808284;
-  font-size: 1.0em;
+  color: #808284;
+  font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
   margin-left: 2%;
@@ -94,13 +94,19 @@ body {
 }
 
 .category-description {
-  #color: #808284;
-  font-size: 1.0em;
+  color: #808284;
+  font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
   margin-left: 2%;
   margin-right: 7%;
   margin-top: .01em;
+}
+
+.category-description-ul {
+  color: #808284;
+  font-size: .9em;
+  line-height: 1.4em;
 }
 
 hr {
