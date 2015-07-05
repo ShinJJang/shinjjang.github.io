@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  font-family: 'Nanum Gothic';  
+  font-family: 'Noto Sans Korean', sans-serif;
   margin: 5% 15% 5% 15%;
 }
 
@@ -25,8 +25,9 @@ body {
   color: #58585B;
   display: inline-block;
   margin-bottom: 2%;
-  margin-top: 1.2em;
+  margin-top: 0.87em;
   text-decoration: none;
+  font-weight: 600;
 }
 
 .links {
@@ -110,9 +111,12 @@ body {
 }
 
 hr {
-  border: 1px dotted #A7A9AB;
-  border-style: none none dotted; 
-  margin: 0 10% 0 0;
+  height: 3px;
+  color: #f00;
+  background-color: #f00;
+  #border: 1px #A7A9AB;
+  #border-style: none none; 
+  #margin: 0 10% 0 0;
 }
 
 li {
