@@ -111,10 +111,10 @@ body {
 }
 
 hr {
-  height: 3px;
-  color: #f00;
-  background-color: #f00;
-  #border: 1px #A7A9AB;
+  height: 2px;
+  color: #DF723E;
+  background-color: #DF723E;
+  border: 0px;
   #border-style: none none; 
   #margin: 0 10% 0 0;
 }
