@@ -1,7 +1,7 @@
 body {
   background-color: white;
   font-family: 'Noto Sans Korean', sans-serif;
-  margin: 5% 15% 5% 15%;
+  margin: 5% 15% 1.5% 15%;
 }
 
 .name {
@@ -126,7 +126,7 @@ li {
 a { text-decoration: none;}
 
 footer {
-  margin : 7% 0 0 0;
+  margin : 5% 0 0 0;
 }
 
 .site-footer-credits {
