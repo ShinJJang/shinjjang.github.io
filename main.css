@@ -110,7 +110,7 @@ body {
   line-height: 1.4em;
 }
 
-hr {
+hr.main_divider {
   height: 2px;
   color: #DF723E;
   background-color: #DF723E;
@@ -124,3 +124,12 @@ li {
 }
 
 a { text-decoration: none;}
+
+footer {
+  margin : 7% 0 0 0;
+}
+
+.site-footer-credits {
+  color: #808284;
+  font-size: .9em;
+}
