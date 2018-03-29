@@ -12,8 +12,7 @@ body {
   text-transform: uppercase;
 }
 
-.contact-information, .links-container {
-  #color: #808284;
+.contact-information, .links-container {  
   display: inline-block;
   font-size: .9em;
   letter-spacing: 1px;
