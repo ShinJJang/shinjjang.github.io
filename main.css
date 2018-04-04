@@ -1,6 +1,7 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 body {
   background-color: white;
-  font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   margin: 5% 15% 1.5% 15%;
 }
 
